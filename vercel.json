@@ -1,5 +1,6 @@
 {
     "rewrites": [
+        { "source": "/", "destination": "/home.html" },
         { "source": "/amazon", "destination": "/AmazonPrime.html" },
         { "source": "/netflix", "destination": "/Netflix.html" },
         { "source": "/session6", "destination": "/Session-6.html" },
